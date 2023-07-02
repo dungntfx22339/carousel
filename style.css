@@ -1,0 +1,18 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("./IMG/idaho239691_1920.jpg");
+  height: 600px;
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("./IMG/landscape.jpg");
+  height: 600px;
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url("./IMG/sunset.jpg");
+  height: 600px;
+}
